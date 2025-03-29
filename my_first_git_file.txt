@@ -1,0 +1,8 @@
+This is the first file i am using for git version control practice.
+I am creating this file in my local git repo and will push this to my git Remote repo using the command <git push>. 
+
+use git init to make a golder version controlled. 
+
+you can now make use of git status to see if there is any file which is not added.
+
+
